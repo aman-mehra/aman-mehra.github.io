@@ -1,0 +1,9 @@
+@ARTICLE{aman_motionmag_df,
+  author={Mehra, Aman and Agarwal, Akshay and Vatsa, Mayank and Singh, Richa},
+  journal={IEEE Transactions on Biometrics, Behavior, and Identity Science}, 
+  title={Motion Magnified 3-D Residual-in-Dense Network for DeepFake Detection}, 
+  year={2023},
+  volume={5},
+  number={1},
+  pages={39-52},
+  doi={10.1109/TBIOM.2022.3201887}}

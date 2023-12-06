@@ -1,2 +1,1 @@
-# website
-Personal Website
+This is the source code to Aman Mehra's public academic website. It is built using the source code from https://jonbarron.info/.

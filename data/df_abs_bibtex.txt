@@ -1,0 +1,9 @@
+@article{Mehra_Agarwal_Vatsa_Singh_2021, 
+title={Detection of Digital Manipulation in Facial Images (Student Abstract)}, 
+volume={35}, url={https://ojs.aaai.org/index.php/AAAI/article/view/17919}, 
+DOI={10.1609/aaai.v35i18.17919}, 
+abstractNote={Advances in deep learning have enabled the creation of photo-realistic DeepFakes by switching the identity or expression of individuals. Such technology in the wrong hands can seed chaos through blackmail, extortion, and forging false statements of influential individuals. This work proposes a novel approach to detect forged videos by magnifying their temporal inconsistencies. A study is also conducted to understand role of ethnicity bias due to skewed datasets on deepfake detection. A new dataset comprising forged videos of Indian ethnicity individuals is presented to facilitate this study.}, 
+number={18}, 
+journal={Proceedings of the AAAI Conference on Artificial Intelligence}, 
+author={Mehra, Aman and Agarwal, Akshay and Vatsa, Mayank and Singh, Richa}, 
+year={2021}, month={May}, pages={15845-15846} }
